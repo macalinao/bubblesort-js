@@ -1,0 +1,27 @@
+{
+  "name": "bubblesort-js",
+  "version": "1.0.0",
+  "description": "Bubblesort in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simplyianm/bubblesort-js"
+  },
+  "keywords": [
+    "bubblesort",
+    "sort"
+  ],
+  "author": "Ian Macalinao <me@ian.pw>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simplyianm/bubblesort-js/issues"
+  },
+  "homepage": "https://github.com/simplyianm/bubblesort-js",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  }
+}
